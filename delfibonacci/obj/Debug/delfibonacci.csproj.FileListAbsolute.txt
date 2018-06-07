@@ -1,0 +1,7 @@
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\obj\Debug\delfibonacci.csprojAssemblyReference.cache
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\obj\Debug\delfibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\bin\Debug\delfibonacci.exe.config
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\bin\Debug\delfibonacci.exe
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\bin\Debug\delfibonacci.pdb
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\obj\Debug\delfibonacci.exe
+C:\Users\Anjani.Burra\source\repos\delfibonacci\delfibonacci\obj\Debug\delfibonacci.pdb
